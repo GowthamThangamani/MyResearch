@@ -7,5 +7,8 @@ https://www.ben-morris.com/custom-token-authentication-in-azure-functions-using-
 2. How to add Startup in Azure function app. (Keyword: Singleton)
 https://stackoverflow.com/a/58797802
 
-3. Vuejs page chnage listener
+
+#VueJs
+
+1. Vuejs page change listener
 https://stackoverflow.com/a/46403063/3877252

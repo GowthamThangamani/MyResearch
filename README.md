@@ -8,7 +8,7 @@ https://www.ben-morris.com/custom-token-authentication-in-azure-functions-using-
 https://stackoverflow.com/a/58797802
 
 
-#VueJs
+# VueJs
 
 1. Vuejs page change listener
 https://stackoverflow.com/a/46403063/3877252

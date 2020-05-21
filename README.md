@@ -7,6 +7,12 @@ https://www.ben-morris.com/custom-token-authentication-in-azure-functions-using-
 2. How to add Startup in Azure function app. (Keyword: Singleton)
 https://stackoverflow.com/a/58797802
 
+# C# - Telemetry
+
+1. Correlation between Durable Function
+http://markusgreuel.net/blog/telemetry-correlation-in-azure-functions
+
+
 
 # VueJs
 

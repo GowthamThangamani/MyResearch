@@ -12,6 +12,9 @@ https://stackoverflow.com/a/58797802
 1. Correlation between Durable Function
 http://markusgreuel.net/blog/telemetry-correlation-in-azure-functions
 
+2. Durable Function dont have co-relation
+https://github.com/Azure/azure-functions-durable-extension/issues/620
+
 
 
 # VueJs

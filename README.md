@@ -15,6 +15,8 @@ http://markusgreuel.net/blog/telemetry-correlation-in-azure-functions
 2. Durable Function dont have co-relation
 https://github.com/Azure/azure-functions-durable-extension/issues/620
 
+3. Error in binding singleton object to functions.
+https://github.com/Azure/Azure-Functions/issues/1130
 
 
 # VueJs
